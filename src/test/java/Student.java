@@ -45,4 +45,12 @@ public class Student {
         return gradeAverage();
     }
 
+    public void updateGrade(){
+
+    }
+
+    public void deleteGrade(){
+
+    }
+
 }
